@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="bg-[url('./assets/main_bg.png')] min-w-[375px] max-w-[1440px] min-h-[100vh] bg-cover bg-center">
       <h1 className="text-3xl font-bold underline">
-      Hello world!
+      Hello world! APJ
     </h1>
     </div>
   )
